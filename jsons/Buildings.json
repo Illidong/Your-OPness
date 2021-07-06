@@ -8,7 +8,7 @@
 		"gold": 20,
 		"uniques": ["[+1 Science] Per [2] population [in this city]",
 		"Providesfreebuilding": "Water Mill","Barracks",
-		"requiredTech": "Writing"
+		"requiredTech": "Writing","The Wheel","Bronze Working"
 	},
 	{
 		"name": "Retaw Llim",
